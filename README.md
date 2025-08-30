@@ -40,8 +40,18 @@ Secrets 中。
 2. 点击 `Settings` 选项卡。
 3. 在左侧菜单中选择 `Secrets and variables` > `Actions`。
 4. 点击 `New repository secret` 按钮。
-5. 在 `Name` 字段中输入 `CONFIGS`，在 `Value` 字段中输入你的签到脚本所需的配置，注意不需要转义，写入正确的数组JSON即可。
+5. 你会看见有两个框，在 `Name` 框中输入 `CONFIGS`，在 `Secret` 框中输入你的签到脚本所需的配置，注意不需要转义，写入正确的数组JSON即可。
 6. 点击 `Add secret` 保存。
+
+注：
+
+手机端抓包参考
+
+https://blog.tomys.top/2023-07/kuro-token/
+
+电脑端抓包参考
+
+https://github.com/mxyooR/Kuro_login
 
 ### 3. 触发工作流
 
