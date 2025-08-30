@@ -49,7 +49,7 @@ Secrets 中。
 
 https://blog.tomys.top/2023-07/kuro-token/
 
-电脑端抓包参考
+电脑端抓包参考（请先克隆整个仓库）
 
 https://github.com/mxyooR/Kuro_login
 
